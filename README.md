@@ -9,3 +9,4 @@ CyeraLabs is your go-to guide for practical C programming. Developed by your fri
 
 Cyera provides practical solutions to common C programming problems. With clear explanations and example code, it’s designed to assist learners in understanding and applying C programming techniques effectively.
 
+New StudyMate To the Studenta
